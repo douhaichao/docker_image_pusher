@@ -5,6 +5,7 @@ swr.cn-east-3.myhuaweicloud.com/kubesre/docker.io/nginx:alpine
 #mongo:latest-arm64v8
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64
